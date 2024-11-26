@@ -1,0 +1,8 @@
+[user]
+name = "admin"
+computer = "admin"
+
+[paths]
+vfs = "vfs.zip"
+log = "log.xml"
+
