@@ -64,21 +64,22 @@ pytest test.py -v
 # Тесты
 
 ## ls
-
+![](https://github.com/NastyaPobedimova/Dz1_config/blob/main/Test/ls.png)
 
 ## cd
-
+![](https://github.com/NastyaPobedimova/Dz1_config/blob/main/Test/cd.png)
 
 ## exit
-
+![](https://github.com/NastyaPobedimova/Dz1_config/blob/main/Test/exit.png)
 
 ## uname
-
+![](https://github.com/NastyaPobedimova/Dz1_config/blob/main/Test/uname.png)
 
 ## history
-
+![](https://github.com/NastyaPobedimova/Dz1_config/blob/main/Test/history.png)
 
 ## mv
-
+![](https://github.com/NastyaPobedimova/Dz1_config/blob/main/Test/mv.png)
 
 ## Общие тесты через pytest
+![](https://github.com/NastyaPobedimova/Dz1_config/blob/main/Test/%D0%A2%D0%B5%D1%81%D1%82%D1%8B.png)
