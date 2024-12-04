@@ -1,14 +1,12 @@
 import os
 import xml.etree.ElementTree as ET
 import zipfile
-from calendar import TextCalendar
 from datetime import datetime, timedelta
 import io
 import configparser
 import time
 import platform
 import sys
-import json
 
 class ShellEmulator:
     def __init__(self, config_path):
