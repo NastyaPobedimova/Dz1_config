@@ -218,7 +218,6 @@ class ShellEmulator:
         return result
 
     def ls_args(self, path):
-        #Реализация ls с аргументами (добавить позже)
         pass
 
     def mv(self, source, destination):
